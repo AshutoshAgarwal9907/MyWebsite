@@ -1,4 +1,3 @@
-import oip from "../images/am.jpg";
 const CardComponent = () => {
   return (
     <div className="flex flex-col bg-white m-auto p-auto">
