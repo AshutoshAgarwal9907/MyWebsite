@@ -6,7 +6,7 @@ const CardComponent = () => {
           <div className="w-64 h-64 max-w-xs overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 ease-in-out">
             <span className="m-4 text-2xl ">text over img</span>
             <img
-              className="h-48 w-64 mb-2"
+              className="h-40 w-64 mb-2"
               src="https://assets.leetcode.com/explore/cards/introduction-to-the-beginners-guide/img-1652222288.png"
               alt="img"
             ></img>
