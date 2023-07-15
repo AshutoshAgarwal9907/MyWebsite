@@ -8,8 +8,7 @@ const CardComponent = () => {
             <img
               className="h-40 w-64 mb-2"
               src="https://assets.leetcode.com/explore/cards/introduction-to-the-beginners-guide/img-1652222288.png"
-              alt="img"
-            ></img>
+              alt="img"></img>
             <div className="flex flex-wrap">
               <div className="flex flex-col mx-4">
                 <span className="text-center text-xl">4 </span>

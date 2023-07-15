@@ -1,4 +1,2 @@
-function Developer(){
-
-}
+function Developer() {}
 export default Developer;

@@ -1,4 +1,2 @@
-function Product(){
-
-}
+function Product() {}
 export default Product;

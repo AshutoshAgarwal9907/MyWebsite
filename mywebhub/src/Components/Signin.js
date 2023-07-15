@@ -1,4 +1,2 @@
-function Signin(){
-
-}
+function Signin() {}
 export default Signin;
