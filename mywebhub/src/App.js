@@ -1,13 +1,12 @@
-import logo from "./logo.svg";
 import "./App.css";
 import AppHeader from "./Components/AppHeader";
-import Explore from "./Components/Explore";
+import { Outlet } from "react-router";
 
 function App() {
   return (
     <div className="">
       <AppHeader />
-      <Explore />
+      <Outlet />
     </div>
   );
 }
