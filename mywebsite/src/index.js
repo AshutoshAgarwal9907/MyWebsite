@@ -7,6 +7,7 @@ import Product from "./Components/Product";
 import Explore from "./Components/Explore";
 import App from "./App";
 import Home from "./Components/Home";
+import Problems from "./Components/Problem";
 
 const AppLayout = () => {
   return (
@@ -32,6 +33,10 @@ const appRouter = createBrowserRouter([
       {
         path: "/explore",
         element: <Explore />,
+      },
+      {
+        path: "/developer",
+        element: <Problems />,
       },
     ],
   },
